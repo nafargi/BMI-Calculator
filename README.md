@@ -4,7 +4,7 @@ A simple BMI (Body Mass Index) calculator built with HTML, CSS, and JavaScript. 
 
 ## Screenshot
 
-![BMI Calculator Screenshot](img/bmi.png)
+![BMI Calculator](img/bmi.png.png)
 
 ## Features
 
@@ -17,8 +17,6 @@ A simple BMI (Body Mass Index) calculator built with HTML, CSS, and JavaScript. 
 - HTML
 - CSS
 - JavaScript
-- 
-
 
 ## Usage
 -Enter your weight in kilograms.
